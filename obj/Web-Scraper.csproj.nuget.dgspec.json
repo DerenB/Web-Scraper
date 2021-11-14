@@ -43,6 +43,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Selenium.Chrome.WebDriver": {
+              "target": "Package",
+              "version": "[2.45.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
