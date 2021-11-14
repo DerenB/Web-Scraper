@@ -1,0 +1,16 @@
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\bin\Debug\net5.0\Web-Scraper.exe
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\bin\Debug\net5.0\Web-Scraper.deps.json
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\bin\Debug\net5.0\Web-Scraper.runtimeconfig.json
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\bin\Debug\net5.0\Web-Scraper.runtimeconfig.dev.json
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\bin\Debug\net5.0\Web-Scraper.dll
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\bin\Debug\net5.0\ref\Web-Scraper.dll
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\bin\Debug\net5.0\Web-Scraper.pdb
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\obj\Debug\net5.0\Web-Scraper.csproj.AssemblyReference.cache
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\obj\Debug\net5.0\Web-Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\obj\Debug\net5.0\Web-Scraper.AssemblyInfoInputs.cache
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\obj\Debug\net5.0\Web-Scraper.AssemblyInfo.cs
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\obj\Debug\net5.0\Web-Scraper.csproj.CoreCompileInputs.cache
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\obj\Debug\net5.0\Web-Scraper.dll
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\obj\Debug\net5.0\ref\Web-Scraper.dll
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\obj\Debug\net5.0\Web-Scraper.pdb
+C:\Users\dboze\Documents\Local-Repos\Web Scraper\Web-Scraper\obj\Debug\net5.0\Web-Scraper.genruntimeconfig.cache
